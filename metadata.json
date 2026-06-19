@@ -1,0 +1,6 @@
+{
+  "name": "MobileTube",
+  "description": "A YouTube-like community video platform where creators upload content, build subscribers, and unlock revenue pathways, featuring authentic creator verification via Google Sign-In simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
